@@ -1,5 +1,5 @@
 import { supabase } from './supabase';
-import { DrawPath } from './canvas'; // optional, but doesn’t break JS
+//import { DrawPath } from './canvas'; // optional, but doesn’t break JS
 // RealtimeChannel import not needed in JS
 
 export class RealtimeManager {
